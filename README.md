@@ -1,2 +1,2 @@
-# deathnote
+# Deathnote
 Open source penetration framework
