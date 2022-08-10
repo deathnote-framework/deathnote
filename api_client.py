@@ -1,7 +1,6 @@
 import requests
 from prompt_toolkit.shortcuts import prompt, CompleteStyle
-from prompt_toolkit.completion import WordCompleter
-from prompt_toolkit.completion import Completer, Completion
+from prompt_toolkit.completion import Completion
 from prompt_toolkit.formatted_text import ANSI
 import os
 import argparse
