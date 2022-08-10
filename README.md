@@ -1,7 +1,7 @@
 # Deathnote
 Open source penetration framework
 
-https://deathnote-framework.io
+All modules on https://deathnote-framework.io
 
 ## Requirements
 
@@ -16,7 +16,7 @@ apt-get install libxml2-dev libxmlsec1-dev
 ## Install
 
 ```
-git clone https://oauth2:{my_token}@deathnote-framework.io:8765/main/deathnote.git
+git clone https://github.com/deathnote-framework/deathnote.git
 cd deathnote
 pip3 install -r install/requirements
 ```
